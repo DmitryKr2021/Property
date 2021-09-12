@@ -3,6 +3,8 @@
 
 https://DmitryKr2021.github.io/Property/index.html
 
+![](https://github.com/DmitryKr2021/Property/blob/gh-pages/img/Property.JPG)
+
 The layout is taken here:
 https://www.youtube.com/watch?v=UK_RTvtum2Y&t=0s
 
